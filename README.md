@@ -10,7 +10,7 @@
 
 ---
 
-### ▶️ [Watch Demo Video](https://example.com/video-link) | 🌐 [Try Live Tool](https://healthy-cities.trodi.dev)
+### ▶️ [Watch Demo Video](https://youtu.be/GJnnenNoaQw) | 🌐 [Try Live Tool](https://healthy-cities.trodi.dev)
 
 ---
 
@@ -31,8 +31,7 @@ NASA's Earth observation data is vast, but often complex to interpret and transl
 
 We transform complex questions into clear answers, allowing a planner to move from **analysis** to **action** in minutes.
 
-![Application Screenshot](https://i.imgur.com/YOUR_SCREENSHOT_URL.png) 
-*(Replace with a URL to your dashboard screenshot)*
+![Application Screenshot](https://i.imgur.com/5J0yIyr.png)
 
 ## 3. Key Features ✨
 
@@ -142,7 +141,7 @@ This project is under the MIT License. See the `LICENSE` file for more details.
 
 ---
 
-### ▶️ [Ver Video de Demostración](https://example.com/video-link) | 🌐 [Probar la Herramienta en Vivo](https://healthy-cities.trodi.dev)
+### ▶️ [Ver Video de Demostración](https://youtu.be/GJnnenNoaQw) | 🌐 [Probar la Herramienta en Vivo](https://healthy-cities.trodi.dev)
 
 ---
 
@@ -162,6 +161,8 @@ Los datos de observación de la Tierra de la NASA son vastos, pero a menudo son 
 **Healthy Cities AI** cierra la brecha entre los datos satelitales y la planificación urbana accionable. Nuestra plataforma no solo visualiza datos, sino que los sintetiza a través de un **motor de IA** para generar recomendaciones estratégicas y específicas.
 
 Transformamos preguntas complejas en respuestas claras, permitiendo a un planificador pasar del **análisis** a la **acción** en minutos.
+
+![Application Screenshot](https://i.imgur.com/5J0yIyr.png)
 
 ## 3. Características Principales ✨
 
